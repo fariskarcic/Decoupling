@@ -1,0 +1,6 @@
+c:\users\faris\documents\visual studio 2017\Projects\InterfacesDIDelegatesEvents\InterfacesDIDelegatesEvents\bin\Debug\InterfacesDIDelegatesEvents.exe.config
+c:\users\faris\documents\visual studio 2017\Projects\InterfacesDIDelegatesEvents\InterfacesDIDelegatesEvents\bin\Debug\InterfacesDIDelegatesEvents.exe
+c:\users\faris\documents\visual studio 2017\Projects\InterfacesDIDelegatesEvents\InterfacesDIDelegatesEvents\bin\Debug\InterfacesDIDelegatesEvents.pdb
+c:\users\faris\documents\visual studio 2017\Projects\InterfacesDIDelegatesEvents\InterfacesDIDelegatesEvents\obj\Debug\InterfacesDIDelegatesEvents.csprojResolveAssemblyReference.cache
+c:\users\faris\documents\visual studio 2017\Projects\InterfacesDIDelegatesEvents\InterfacesDIDelegatesEvents\obj\Debug\InterfacesDIDelegatesEvents.exe
+c:\users\faris\documents\visual studio 2017\Projects\InterfacesDIDelegatesEvents\InterfacesDIDelegatesEvents\obj\Debug\InterfacesDIDelegatesEvents.pdb
